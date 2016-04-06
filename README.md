@@ -5,4 +5,6 @@ CSS Animation code for Page Load Animation
 
 This is a simple CSS file that you can use with HTML. All class names are written in comments so just use class attribute to make your HTML object animation.
 
+Now a days CSS animations are the perfect way to make your website more attractive. Here I am posting a CSS Animation Library. This is a GITHUB open source project and you can also contribute in this Library. It is a great pleasure for us. 
+
 ![](https://4.bp.blogspot.com/-DtU3y1Az--M/VwTMUMlDSiI/AAAAAAAAB1M/XwSJg2Z-1KUJObQnT53fhIgwGcsST5x2g/s1600/2.png)
