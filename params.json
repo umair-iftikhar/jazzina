@@ -1,0 +1,6 @@
+{
+  "name": "Jazzina Animation Library",
+  "tagline": "Simple and small CSS animation code for your HTML",
+  "body": "### Welcome to GitHub Pages.\r\nJazzina Animation Library is a CSS Library or a .css file that contain CSS code of different animations. These animation can used in your HTML file. It is a simple, fast and small size animation library. You just have to put required animation class in your code and have to link **jazzina.css** in your head section.\r\n`<head>\r\n\t\t<title>Jazzina Animation Library - JAL Sample</title>\r\n\t\t<link rel=\"stylesheet\" href=\"jazzina.css\">\r\n</head>`\r\n\r\n\r\n***\r\n\r\n### Project Name\r\nJazzina name will be taken from my daughter name **Jaseena Umair**. Just start making this Library and make a name.\r\n\r\n### Support or Contact\r\nHaving trouble with library? Go to my [Facebook Profile](https://facebook.com/zuki786) or [contact](http://justvucs.blogspot.com/p/blog-page.html) and i’ll help you sort it out.\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
