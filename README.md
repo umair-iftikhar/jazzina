@@ -8,3 +8,8 @@ This is a simple CSS file that you can use with HTML. All class names are writte
 Now a days CSS animations are the perfect way to make your website more attractive. Here I am posting a CSS Animation Library. This is a GITHUB open source project and you can also contribute in this Library. It is a great pleasure for us. 
 
 Jazzina Animation Library or JAL will make your life easy in animations of CSS.
+
+# How to use?
+
+Link **jazzina.css** in your html page via link tag.
+Just simpaly put animation class in class attribute of tag and Done.
