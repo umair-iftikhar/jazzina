@@ -12,4 +12,4 @@ Jazzina Animation Library or JAL will make your life easy in animations of CSS.
 # How to use?
 
 Link **jazzina.css** in your html page via link tag.
-Just simpaly put animation class in class attribute of tag and Done.
+Just simply put animation class in class attribute of tag and Done.
