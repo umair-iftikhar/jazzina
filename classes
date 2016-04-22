@@ -1,0 +1,26 @@
+Animation
+
+    slideDown
+    slideUp
+    slideLeft
+    slideRight
+    slideExpandUp
+    expandUp
+    fadeIn
+    expandOpen
+    bigEntrance
+    hatch
+    bounce
+    pulse
+    floating
+    tossing
+    pullUp
+    pullDown
+    stretchLeft
+    stretchRight
+    elasticBand
+
+
+Events
+
+    infinite
